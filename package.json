@@ -2,6 +2,7 @@
   "name": "test-plugin",
   "module": "./src/index.ts",
   "type": "module",
+  "repository": "https://github.com/d4n5h/test-plugin",
   "devDependencies": {
     "@types/bun": "latest"
   },
