@@ -9,7 +9,7 @@ class TestPlugin {
 
   async init() {
     this.context.events.on("test", (data: any) => {
-      console.log('TestPlugin received event 123123', data);
+      console.log('TestPlugin received event', data);
     });
   }
 

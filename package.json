@@ -1,6 +1,7 @@
 {
   "name": "test-plugin",
   "module": "./src/index.ts",
+  "version": "1.0.0",
   "type": "module",
   "repository": "https://github.com/d4n5h/test-plugin",
   "devDependencies": {
